@@ -12,5 +12,3 @@ ON
 de.dept_no = d.dept_no
 WHERE
 dept_name = 'Sales'
-OR
-dept_name = 'Development'
